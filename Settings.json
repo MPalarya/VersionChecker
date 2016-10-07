@@ -1,0 +1,22 @@
+{
+    "manpack": {
+        "path": "I:\\ManPack-SDR Tester", 
+        "latest": "Manpack-SDR Tester 1.0.43.6 Setup.exe", 
+        "output": "\\\\jellyfish02\\Projects\\Manpack SDR\\GUI Tester", 
+        "to": [
+            "michael.palarya@elbitsystems.com"
+        ], 
+        "cc": [], 
+        "bcc": []
+    }, 
+    "uwb": {
+        "path": "I:\\UWB Tester", 
+        "latest": "UWB Tester 1.0.0.2 Setup.exe", 
+        "output": "\\\\jellyfish02\\Projects\\Manpack SDR\\UWB Tester", 
+        "to": [
+            "michael.palarya@elbitsystems.com"
+        ], 
+        "cc": [], 
+        "bcc": []
+    }
+}
